@@ -1,0 +1,4 @@
+﻿使用libman安装layui
+--1	安装libman dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+--2 初始化 libman init
+--3	安装layui libman install layui
